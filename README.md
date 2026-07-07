@@ -163,7 +163,7 @@ Architecting and developing comprehensive full-stack applications with a focus o
 </div>
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mustafajamanansary&show_icons=true&theme=tokyonight&hide_border=true&title_color=7f00ff&icon_color=4facfe" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafajamanansary&theme=tokyonight&hide_border=true&ring=7f00ff&fire=4facfe&currStreakLabel=7f00ff" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mustafajamanansary&theme=tokyonight&hide_border=true&ring=7f00ff&fire=4facfe" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
@@ -173,6 +173,19 @@ Architecting and developing comprehensive full-stack applications with a focus o
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafajamanansary&theme=tokyo-night&hide_border=true&color=7f00ff" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+  <h2>Contribution Snake</h2>
+</div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafajamanansary/mustafajamanansary/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustafajamanansary/mustafajamanansary/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mustafajamanansary/mustafajamanansary/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
