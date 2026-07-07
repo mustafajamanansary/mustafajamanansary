@@ -162,21 +162,12 @@ Architecting and developing comprehensive full-stack applications with a focus o
   <h2>GitHub Analytics</h2>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafajamanansary&show_icons=true&theme=tokyonight&hide_border=true&title_color=7f00ff&icon_color=4facfe" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafajamanansary&theme=tokyonight&hide_border=true&ring=7f00ff&fire=4facfe&currStreakLabel=7f00ff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mustafajamanansary&show_icons=true&theme=tokyonight&hide_border=true&title_color=7f00ff&icon_color=4facfe" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mustafajamanansary&theme=tokyonight&hide_border=true&ring=7f00ff&fire=4facfe&currStreakLabel=7f00ff" alt="GitHub Streak" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafajamanansary&layout=compact&theme=tokyonight&hide_border=true&title_color=7f00ff" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <h2>GitHub Trophies</h2>
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mustafajamanansary&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mustafajamanansary&layout=compact&theme=tokyonight&hide_border=true&title_color=7f00ff" alt="Top Languages" />
 </div>
 
 ---
