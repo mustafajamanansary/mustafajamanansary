@@ -28,7 +28,7 @@
 </div>
 Professional Full Stack Software Engineer specializing in architecting and deploying scalable, high-performance distributed systems. Strong emphasis on robust software engineering principles, CI/CD pipelines, and writing clean, maintainable code. Deep expertise in bridging complex AI/ML models with enterprise-grade web architectures to deliver intelligent product features. Product engineering mindset focused on delivering exceptional user experiences through optimized full stack development.
 <br><br>
-<b>Open To:</b> Senior Software Engineer, Full Stack Engineer, AI Integration Specialist roles.
+<b>Open To:</b> Software Engineer, Full Stack Engineer, AI Integration Specialist roles.
 
 ---
 
